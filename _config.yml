@@ -5,11 +5,12 @@ logo: /assets/img/sangeun.png
 description: >
   Ph.D. student @ POSTECH <br>
   seseo98@dgist.ac.kr
-show_downloads: false
-# google_analytics:
-theme: jekyll-theme-minimal
 
 # google_scholar: 
 github_username: seseo98
 linkedin_username: seseo98
 cv_link: /assets/CV_Sangeun_Seo.pdf  # assets 폴더에 cv.pdf를 업로드하세요.
+
+# 기타 설정
+show_downloads: false
+google_analytics: [필요시 입력]
