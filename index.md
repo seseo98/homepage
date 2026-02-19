@@ -56,7 +56,7 @@ I aim to support human well-being and learning in real-world contexts by bridgin
 <div class="paper-item">
   <div class="paper-content">
     <div class="paper-title"><strong>크라우드 워커의 심리적 보호와 작업 지속성을 위한 개입 기술 탐색</strong></div>
-    <div class="paper-authors">Dokyun Lee, <span class="author-name">Sangeun Seo</span>, and Jean Y. Song (* Equal contribution)</div>
+    <div class="paper-authors">Dokyun Lee, <span class="author-name">Sangeun Seo</span>, and Jean Y. Song</div>
     <div class="paper-venue">HCI Korea 2025
     <span class="paper-links">
         <a href="https://dokyunlee.github.io/assets/materials/HCI_korea_paper_2025.pdf" class="paper-link" target="_blank">PDF</a>
