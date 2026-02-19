@@ -31,7 +31,7 @@ I aim to support human well-being and learning in real-world contexts by bridgin
 <div class="paper-item">
   <div class="paper-image">
     <div class="paper-image-link" data-image="/assets/img/DIS2024.png">
-      <img src="/assets/img/DIS2024.png" alt="Paper thumbnail">
+      <img src="assets/img/DIS2024.png" alt="Paper thumbnail">
       <div class="image-overlay">
         <i class="fa-solid fa-magnifying-glass-plus"></i>
       </div>
@@ -43,7 +43,7 @@ I aim to support human well-being and learning in real-world contexts by bridgin
     <div class="paper-venue">
       ACM DIS 2024
       <span class="paper-links">
-        <a href="/assets/img/DIS2024.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="assets/img/DIS2024.pdf" class="paper-link" target="_blank">PDF</a>
         <a href="https://dl.acm.org/doi/10.1145/3643834.3660708" class="paper-link" target="_blank">DOI</a>
       </span>
     </div>
