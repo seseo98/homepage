@@ -1,4 +1,6 @@
-# remote_theme: BDHU/minimalist
+remote_theme: BDHU/minimalist
+url: "https://seseo98.github.io"
+baseurl: "/homepage"
 title: Sangeun Seo
 logo: /assets/img/sangeunseo.jpg
 email: sangeunseo@postech.ac.kr
