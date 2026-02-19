@@ -1,16 +1,37 @@
-remote_theme: BDHU/minimalist
-
+# remote_theme: BDHU/minimalist
 title: Sangeun Seo
-logo: /assets/img/sangeunseo.png
-description: >
-  Ph.D. student @ POSTECH <br>
-  seseo98@dgist.ac.kr
-
-# google_scholar: 
-github_username: seseo98
-linkedin_username: seseo98
-cv_link: /assets/CV_Sangeun_Seo.pdf  # assets 폴더에 cv.pdf를 업로드하세요.
-
-# 기타 설정
+logo: /assets/img/sangeunseo.jpg
+email: sangeunseo@postech.ac.kr
+description: Ph.D. student @ POSTECH
 show_downloads: false
-google_analytics: [필요시 입력]
+color-scheme: lignt
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+sidebar:
+  - name: Google Scholar
+    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
+    link: https://scholar.google.com/citations?hl=ko&user=9HCGJb0AAAAJ
+  # - name: GitHub
+  #   icon: <i class="fa-brands fa-github"></i>
+  #   link: https://github.com/yeonsunYang
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/sangeun-seo-853b2b314/
+  # - name: X
+  #   icon: <i class="fa-brands fa-x-twitter"></i>
+  #   link: https://x.com/yeonsun_yang
+  - name: CV
+    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="2" fill="#000"/><text x="12" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fff">CV</text></svg>
+    link: /assets/pdf/CV_Sangeun_Seo.pdf
+
+# # google_scholar: 
+# github_username: seseo98
+# linkedin_username: seseo98
+# cv_link: /assets/CV_Sangeun_Seo.pdf  # assets 폴더에 cv.pdf를 업로드하세요.
+
+# # 기타 설정
+# show_downloads: false
+# google_analytics: [필요시 입력]
